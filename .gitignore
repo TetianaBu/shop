@@ -1,0 +1,11 @@
+.DS_Store
+
+node_modules/
+*.log
+haters/
+.next/
+.build/
+layout.md
+variables.env
+*.env
+.keystone
